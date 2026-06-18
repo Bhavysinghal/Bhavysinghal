@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <h1>Bhavy Singhal</h1>
 
@@ -8,13 +8,13 @@
 
 <a href="https://git.io/typing-svg">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFBF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Contributing+to+open+source+projects;Practicing+DSA+consistently;Learning+TypeScript+%26+backend+patterns" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58a6ff&center=false&vCenter=true&repeat=true&width=600&height=45&lines=Contributing+to+open+source+projects;Practicing+DSA+consistently;Learning+TypeScript+%26+backend+patterns" 
   />
 </a>
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=bhavysinghal&color=00FFBF&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=bhavysinghal&color=58a6ff&style=flat-square&label=Visitors)
 
 </div>
 
@@ -24,16 +24,57 @@
 <!-- 🎯 ABOUT ME -->
 <!-- ===================== -->
 
-<h3 align="center">🎯 About Me</h3>
+<h3>🎯 About Me</h3>
 
-<blockquote align="center">
-  <b>I care about fundamentals, consistency, and shipping things that actually work.</b>
-</blockquote>
-
-- 📫 **debug.bhavysinghal@gmail.com**
+I care about fundamentals, consistency, and shipping things that actually work.
 
 ---
 
+<!-- ===================== -->
+<!-- 🚀 TECH STACK -->
+<!-- ===================== -->
+
+<h2 align="center">🚀 Tech Stack</h2>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" />
+</div>
+
+---
 
 <!-- ===================== -->
 <!-- 📊 MOST USED LANGUAGES -->
@@ -48,165 +89,11 @@
 ---
 
 <!-- ===================== -->
-<!-- 🚀 TECH STACK -->
-<!-- ===================== -->
-
-<h2 align="center">🚀 Tech Stack</h2>
-
-<h3 align="center">💻 Programming Languages</h3>
-
-<div align="center">
-  <table cellspacing="22">
-    <tr>
-      <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65"/><br/>
-        <b>C++</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br/>
-        <b>JavaScript</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65"/><br/>
-        <b>TypeScript</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>
-        <b>HTML</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>
-        <b>CSS</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 align="center">🎨 Frontend</h3>
-
-<div align="center">
-  <table cellspacing="30">
-    <tr>
-      <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/><br/>
-        <b>React</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>
-        <b>Next.js</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>
-        <b>Tailwind</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=vue" width="48"/><br/>
-        <b>Vue</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 align="center">⚙ Backend</h3>
-
-<div align="center">
-  <table cellspacing="30">
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>
-        <b>Node.js</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=express" width="48"/><br/>
-        <b>Express</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 align="center">🗄 Databases</h3>
-
-<div align="center">
-  <table cellspacing="30">
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>
-        <b>MongoDB</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/><br/>
-        <b>MySQL</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h3 align="center">🧰 Tools</h3>
-
-<div align="center">
-  <table cellspacing="26">
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>
-        <b>Git</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=github" width="48"/><br/>
-        <b>GitHub</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
-        <b>Docker</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>
-        <b>Postman</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>
-        <b>VS Code</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-
-<!-- ===================== -->
 <!-- 📈 CONTRIBUTION GRAPH -->
 <!-- ===================== -->
 
 <h3 align="center">📈 Contribution Graph</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavysinghal&bg_color=0d1117&color=00FFBF&line=00FFBF&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavysinghal&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area_color=1c2d4a&area=true&hide_border=true&title=Contribution+Graph"/>
 </p>
-
----
-
-<!-- ===================== -->
-<!-- 🤝 LET'S CONNECT -->
-<!-- ===================== -->
-
-<h3 align="center">🤝 Let's Connect</h3>
-
-<div align="center">
-  <a href="https://github.com/Bhavysinghal">
-    <img src="https://skillicons.dev/icons?i=github" width="48"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/bhavy-singhal-241546289">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-  </a>
-  &nbsp;
-  <a href="https://www.leetcode.com/BhavySinghal">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <i>Open to full-stack roles and open source collaborations.</i>
-</div>
